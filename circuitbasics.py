@@ -1,4 +1,5 @@
-#this is the solution from "Circuit Basics" tutorial page from IBM Quantum portal. you can access it directly here: https://qiskit.org/documentation/tutorials/circuits/01_circuit_basics.html
+# this is the solution from "Circuit Basics" tutorial page from IBM Quantum portal. 
+# you can access it directly here: https://qiskit.org/documentation/tutorials/circuits/01_circuit_basics.html
 
 import numpy as np
 from qiskit import QuantumCircuit, transpile
